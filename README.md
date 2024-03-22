@@ -22,7 +22,7 @@
     <img style="display: inline_block" align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
 </div><br/>
 
-Apenas mais um apaixonado em cria codigos 
+Apenas mais um apaixonado em cria codigos💜
 
 
 
