@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139
 )](https://duddy57.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/duddy57dev)
+)](https://www.linkedin.com/in/duddy57dev)
 
 ![Alexsandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexsadro&show_icons=true&theme=dracula)
 
