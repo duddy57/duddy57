@@ -37,4 +37,6 @@ Traffytask, meu primeiro projeto e no qual estou mais dedicado. É uma aplicaç�
 
 Além de programação, gosto de ler e mexer com computadores. Sempre estou em busca de novos desafios e oportunidades para aprender e crescer na área de desenvolvimento.
 Se você tiver interesse em colaborar ou discutir projetos, fique à vontade para entrar em contato!
-
+<br><br>
+<img width="51%" src="https://github-readme-stats.vercel.app/api?username=duddy57&show_icons=true&hide=contribs&theme=catppuccin_mocha" alt="Duddy57 stats"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duddy57&hide_progress=true&layout=compact&theme=catppuccin_mocha" alt="Languages used" />
